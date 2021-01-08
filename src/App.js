@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>
-      Game Chest Items will not be available from 10th January 2021
+      Game Chest Items will not be available from 15th January 2021
       </h1>
       <ul>
         <li><h2>Will I be able to unlock more items?</h2><h3>You will not be able to unlock any item from now. Don’t worry! We are working on more exciting features for you.</h3></li>
