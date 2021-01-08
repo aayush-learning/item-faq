@@ -2,6 +2,9 @@
   /* text-align: center; */
   display: flex;
   flex-direction: column;
+  padding-left: 24px;
+  padding-right: 24px ;
+  padding-top: 32px;
 }
 
 
@@ -26,7 +29,6 @@ h1{
   order: 0;
   align-self: stretch;
   flex-grow: 0;
-  padding-left: 10px;
 }
 h2{
   position: static;
